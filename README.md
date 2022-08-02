@@ -5,7 +5,7 @@
 
 `VGG_face_results.ipynb` contains the code for computing the accuracy of the VGGFace model, and the demo visualization code.
 
-`Siamese_allmods.ipynb` contains the code for loading all kinda of Siamese models, and finding the closest distance image in the database.
+`Siamese_allmods.ipynb` contains the code for loading all kinds of Siamese models, and finding the closest distance image in the database.
 
 `Siamese_vgg8.ipynb` contains the code for Siamese model with 8 layers of vgg convolution. It includes the training and saving the model.
 
