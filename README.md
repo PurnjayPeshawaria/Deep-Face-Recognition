@@ -8,3 +8,5 @@
 `Siamese_allmods.ipynb` contains the code for loading all kinda of Siamese models, and finding the closest distance image in the database.
 
 `Siamese_vgg8.ipynb` contains the code for Siamese model with 8 layers of vgg convolution. It includes the training and saving the model.
+
+Report is in `COMP9444_Report.pdf`.
